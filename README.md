@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neel-Biswas
-- 👀 I’m interested in .Coding,Software and Web developement..
-- 🌱 I’m currently learning .backend of software..
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in .Coding,Software and Web development..
+- 🌱 I’m currently working on some web development project invloving html,css,js.
+- 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me ...
 
 <!---
